@@ -1,0 +1,8 @@
+*.o
+*.out
+!.gitignore
+*.swp
+*.log
+*.flag
+log
+
